@@ -147,9 +147,9 @@ Each stage has its own detailed doc covering purpose, parameters, troubleshootin
 
 ## Test cases
 **disparity maps**
-![Stereo camera pair](img\disparity1_black.png) 
-![Stereo camera pair](img\disparity1_coloured.png) 
-![Stereo camera pair](img\chair1.png)
+![Stereo camera pair](img/disparity1_black.png)
+![Stereo camera pair](img/disparity1_coloured.png)
+![Stereo camera pair](img/chair1.png)
 
 **Measuring Lengths**
 ```bash
@@ -173,4 +173,4 @@ Point 2 3D    : (np.float64(-58.14411292885834), np.float64(36.45612608711674), 
 Distance      : 101.58 cm
 ```
 the real length = 102 cm , giving an error 0.5 cm .
-![Stereo camera pair](img\prop1.png)
+![Stereo camera pair](img/prop1.png)
