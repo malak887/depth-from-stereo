@@ -1,0 +1,12 @@
+
+/build/
+*/build/
+/.idea/
+
+.vscode/
+
+/frames/
+*.exe
+/__pycache__/
+*.pyc
+/output/
