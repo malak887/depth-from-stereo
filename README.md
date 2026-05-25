@@ -1,6 +1,6 @@
-# ROV-26 Stereo Vision Measurement System
+# Stereo Vision Measurement System
 
-A stereo vision pipeline for underwater ROV missions — calibrate a dual-camera rig, rectify image pairs, compute disparity, and measure real-world 3D distances by clicking two points.
+A stereo vision pipeline for calibrated a dual-camera rig, rectify image pairs, compute disparity, and measure real-world 3D distances by clicking two points.
 
 ---
 
